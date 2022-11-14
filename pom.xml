@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.javamentor</groupId>
-    <artifactId>spring-mvc</artifactId>
+    <artifactId>PP_2_2_2_spring-mvc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>war</packaging>
@@ -63,7 +63,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>Spring_MVC</finalName>
+        <finalName>PP_2_2_2_spring-mvc</finalName>
     </build>
 
 </project>
